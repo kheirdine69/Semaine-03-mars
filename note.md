@@ -1,4 +1,4 @@
-# Requêtes MongoDB pour la gestion d'une bibliothèque
+# Partie 2 : Requêtes MongoDB pour la gestion d'une bibliothèque
 
 ## Listez tous les livres disponibles
 
